@@ -439,3 +439,16 @@ font-weight: bold;
   margin-left: 50px;
   margin-left: 50px;
 margin-bottom: 15px;}
+
+.foto{
+  width: 25%;
+  border: #2b82dc; solid 3px;
+  float: left;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+.about{
+  font-size: 13px;
+  font-weight: 600;
+  text-align: justify;
+}
